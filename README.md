@@ -1,7 +1,7 @@
 # ColorDetection
 This simple app allows you to create your own color detector!
 
-I`ve watched a couple of videos on YouTube about color detection in OpenCV. Most of them were about detecting onr specific color or about tracking colored objects on the video. But I've decided to make my own app to detect several colors on the video.
+I`ve watched a couple of videos on YouTube about color detection in OpenCV. Most of them were about detecting one specific color or about tracking colored objects on the video. But I've decided to make my own app to detect several colors on the video.
 
 As an example I took `traffic.mp4` from `videos/` folder. Using `color_range_detector.py` I've figured out boundaries for each of 7 colors:
 - red
