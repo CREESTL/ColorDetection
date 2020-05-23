@@ -9,7 +9,7 @@ The following steps are pretty standart and you can find them in many other proj
 - Each frame if resized
 - The frame is blurred to lower the noise
 - The frame if converted from BGR to HSV format
-- Using `color_range_detector (<strong>run it from command line!</strong>) I've figured out the boundaries for each of 7 colors:
+- Using `color_range_detector` (<strong>run it from command line!</strong>) I've figured out the boundaries for each of 7 colors:
     - red
     - green
     - blue
